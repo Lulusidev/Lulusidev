@@ -10,5 +10,5 @@
 </div>
 
 <div>
-  <img align="right" height="100em" scr="https://github.com/Lulusidev/Lulusidev/blob/main/d72460fae7ff7ea018d0e2e21de937b3.gif">
+  <img align="right" height="100em" scr="https://raw.githubusercontent.com/Lulusidev/Lulusidev/main/d72460fae7ff7ea018d0e2e21de937b3.gif" alt="neymar">
 </div>
