@@ -8,6 +8,9 @@
 <div> 
   <p>my name is Luis Gabriel,I'm from Brazil and i'm a student of high school,and learning programming,Using python as main language,Soon I would be putting several repositories with my projects so that you who are reading this can see the level I am now besides maybe helping me to improve my project=)</p>
 </div>
+<div align=right>
+  <img scr="https://github.com/Lulusidev/Lulusidev/blob/main/d72460fae7ff7ea018d0e2e21de937b3.gif">
+</div>
 
 <div>
 ![Snake animation](https://github.com/Lulusidev/Lulusidev/blob/output/github-contribution-grid-snake.svg)
