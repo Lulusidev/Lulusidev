@@ -10,5 +10,5 @@
 </div>
 
 <div>
-  <img scr="https://cdn.discordapp.com/attachments/869620858606477324/874426144185778186/d72460fae7ff7ea018d0e2e21de937b3.gif" align="right" alt="neymar">
+  <img scr="https://cdn.discordapp.com/attachments/869620858606477324/874426144185778186/d72460fae7ff7ea018d0e2e21de937b3.gif" alt="neymar">
 </div>
