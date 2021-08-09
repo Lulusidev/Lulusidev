@@ -2,7 +2,7 @@
 <div height=100em >
   <a href="https://www.linkedin.com/in/luis-gabriel-de-sousa-fontenele-a2a65a215/">
   <img scr="https://github-readme-stats.vercel.app/api?username=Lulusidev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Lulusidev&layout=compact&langs_count=7&theme=dracula"/></a>
+  <img scr="https://github-readme-stats.vercel.app/api/top-langs/?username=Lulusidev&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 <br>
 <div> 
