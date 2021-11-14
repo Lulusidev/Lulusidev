@@ -13,5 +13,5 @@ And that's it</p>
 </div>
 
 <div>
-  <img scr="https://cdn.discordapp.com/attachments/869620858606477324/874426144185778186/d72460fae7ff7ea018d0e2e21de937b3.gif">
+  ![image](https://user-images.githubusercontent.com/86597979/141702830-3d3acd4c-d63b-4efe-a201-2d195e8a0e36.png)
 </div>
