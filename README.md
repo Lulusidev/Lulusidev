@@ -13,5 +13,5 @@ And that's it</p>
 </div>
 
 <div>
-  ![image](https://user-images.githubusercontent.com/86597979/141702830-3d3acd4c-d63b-4efe-a201-2d195e8a0e36.png)
+  <img src="https://user-images.githubusercontent.com/86597979/141702830-3d3acd4c-d63b-4efe-a201-2d195e8a0e36.png">
 </div>
