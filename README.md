@@ -6,7 +6,10 @@
 </div>
 <br>
 <div> 
-  <p>my name is Luis Gabriel,I'm from Brazil and i'm a student of high school,and learning programming,Using python as main language,Soon I would be putting several repositories with my projects so that you who are reading this can see the level I am now besides maybe helping me to improve my project=)</p>
+  <p>Hi, I am the Brazilian student.<br>
+I stopped studying programming for a while to focus on the entrance exam<br>
+But even so, I'm still studying C, C++ and Shell Script<br>
+And that's it</p>
 </div>
 
 <div>
