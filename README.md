@@ -6,7 +6,7 @@
 </div>
 <br>
 <div> 
-  <p>Hi, I am the Brazilian student.<br>
+  <p>Hi, I`m a Brazilian student.<br>
 I stopped studying programming for a while to focus on the entrance exam<br>
 But even so, I'm still studying C, C++ and Shell Script<br>
 And that's it</p>
