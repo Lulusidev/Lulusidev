@@ -7,8 +7,7 @@
 <br>
 <div> 
   <p>Hi, I`m a Brazilian student.<br>
-I stopped studying programming for a while to focus on the entrance exam<br>
-But even so, I'm still studying C, C++ and Shell Script<br>
+I'm studying Linux,C,Python and Shell Script<br>
 And that's it</p>
 </div>
 
