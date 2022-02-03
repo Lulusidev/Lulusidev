@@ -6,7 +6,7 @@
 <div> 
   <p>Hi, I`m a student of programming and now 
 I'm studying Linux,C,Python and Shell Script<br>
-,And that's it.</p>
+And that's it.</p>
 </div>
 
 <div>
