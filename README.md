@@ -4,7 +4,7 @@
   <img height="100%" src="https://github.com/Lulusidev/Lulusidev/blob/main/94d58b34a3bf0592b00dad9c55b88fbc.gif?raw=true"/> 
 </div>
 <div> 
-  <p>Hi, I`m a Brazilian student.<br>
+  <p>Hi, I`m a student of programming and now 
 I'm studying Linux,C,Python and Shell Script<br>
 And that's it</p>
 </div>
