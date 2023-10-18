@@ -1,10 +1,6 @@
 * {
     text-rendering: optimizeLegibility;
   }
-.projects img {
-    height:20px;
-    width:20px;
-}
 
 body {
     padding:0px;
@@ -55,6 +51,11 @@ body {
     border-color: #0044CC;
     color: #0044CC;
 }
+.projects img {
+    height:20px;
+    width:20px;
+}
+
 
 .rodape {
 
@@ -63,11 +64,12 @@ body {
     margin-top:15px;
     font-size: 15px;
     bottom:0;
-    height:15px
+    height:15px;
     width:15px;
 }
 
 .rodape img {
+    text-align:center;
     height:35px;
     width:35px;
 }
