@@ -1,9 +1,13 @@
 * {
     text-rendering: optimizeLegibility;
   }
+.projects img {
+    height:20px;
+    width:20px;
+}
 
 body {
-    padding :0px;
+    padding:0px;
     margin:15%;
     margin-top: 30px;
     text-align: center;
@@ -27,41 +31,43 @@ body {
     font-size: 20px;
 }
 
-
-
-.links a {  
+.projects {
+    text-align: left;
+    color:#282828;
     
-    margin:0px 20px;
-    margin-top: 20px;
+    font-family: Arial, Helvetica, sans-serif; 
+    font-size: 20px;
+}
+
+
+.projects a {  
     text-decoration: none;
     color: #282828;
-    display:inline-block;
-    border: 1px solid #dddddd;
-    padding: 30px 40px;
-    width: 200px;
-    height: auto;
-    
-    border-radius: 5px;
+    display:block;
     font-weight: bold;
-
-
     font-family: Arial, Helvetica, sans-serif; 
-
-    font-size: 25px;
-    text-align: center;
+    font-size: 70%;
+    text-align: left;
 
 }
 
-.links a:hover {
+.projects a:hover {
     border-color: #0044CC;
     color: #0044CC;
 }
 
-.rodape p {
+.rodape {
 
     font-family: Arial, Helvetica, sans-serif;
     color:#282828; 
     margin-top:15px;
     font-size: 15px;
     bottom:0;
+    height:15px
+    width:15px;
+}
+
+.rodape img {
+    height:35px;
+    width:35px;
 }
